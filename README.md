@@ -1,2 +1,0 @@
-# Miicsa
-Proyecto practicas
